@@ -13,3 +13,8 @@ data can be anything and everything any information or fact can be considered as
 ABC Retail Company
 ABC is a retail company that operates both physical stores and an online platform. The company is experiencing discrepancies in its sales data and wishes to improve the accuracy and reliability of its datasets. Your task is to conduct a thorough data cleansing process and derive meaningful observations from the cleaned dataset to aid in decision-making and strategic planning.
 Given the provided sales dataset from the past year, which contains information on products, sales channels, customer demographics, and transaction details, describe the steps you would take to address inconsistencies, missing values, and inaccuracies within the dataset. Additionally, outline how you would derive meaningful observations from the cleaned dataset to support decision-making and strategic planning for the retail company. Be sure to include specific data cleansing techniques and examples of observations you would derive from the dataset.
+
+Title: "Optimizing Product Range and Inventory"
+
+Simple English Rewrite:
+"Let's check how well all our products are selling, not just the top five. We'll decide if we should keep, change, or stop selling any products based on sales and customer demand. At the same time, we'll make sure we have enough of our best-selling products in stock. We'll predict how much we need, avoid running out, and manage how quickly we sell them to keep costs under control.
